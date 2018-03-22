@@ -1,0 +1,2 @@
+# sameAndDifferentInArray
+比较数组中相同与不同元素
